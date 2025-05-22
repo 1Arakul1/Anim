@@ -1,0 +1,222 @@
+[
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  },
+  {
+    "category": "Млекопитающие",
+    "question": "Какое животное является самым крупным млекопитающим на Земле?",
+    "answers": [
+      {"text": "Африканский слон", "is_correct": false},
+      {"text": "Синий кит", "is_correct": true},
+      {"text": "Белый медведь", "is_correct": false},
+      {"text": "Жираф", "is_correct": false}
+    ],
+    "difficulty": "Легкий"
+  },
+  {
+    "category": "Птицы",
+    "question": "Какая птица не умеет летать?",
+    "answers": [
+      {"text": "Орел", "is_correct": false},
+      {"text": "Пингвин", "is_correct": true},
+      {"text": "Воробей", "is_correct": false},
+      {"text": "Сокол", "is_correct": false}
+    ],
+    "difficulty": "Средний"
+  }
+]
