@@ -1,3 +1,4 @@
+#quiz\urls.py
 from django.urls import path
 from .views import QuestionCategoryListCreateAPIView, QuestionCategoryRetrieveUpdateDestroyAPIView, \
                    QuestionListCreateAPIView, QuestionRetrieveUpdateDestroyAPIView, \

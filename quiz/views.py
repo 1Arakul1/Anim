@@ -1,3 +1,4 @@
+#quiz\views.py
 from rest_framework import generics
 from .models import QuestionCategory, Question, Answer
 from .serializers import QuestionCategorySerializer, QuestionSerializer, AnswerSerializer
@@ -7,9 +8,13 @@ from rest_framework.response import Response
 from rest_framework import status
 from .models import Question, Answer
 from rest_framework.decorators import api_view
+from rest_framework import generics, permissions  # Импортируем permissions
+from rest_framework.decorators import api_view, permission_classes # Импортируем permission_classes
 
 @api_view(['POST'])
+@permission_classes([permissions.IsAuthenticated]) # Требуем аутентификацию
 def check_answer(request):
+    
     try:
         question_id = request.data.get('question_id')
         answer_id = request.data.get('answer_id')

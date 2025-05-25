@@ -1,4 +1,3 @@
-#config\settings.py
 from pathlib import Path
 import os
 import sys
@@ -26,7 +25,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'drf_yasg',
     'sections',
-    'quiz'
+    'quiz',
 ]
 
 AUTH_USER_MODEL = 'users.User'
@@ -137,6 +136,7 @@ try:
     cache.get('test_cache_connection')
 except Exception as e:
     logger.error(f"Redis connection error: {e}")
+
 LOGGING = {
     'version': 1,
     'disable_existing_loggers': False,
@@ -152,8 +152,9 @@ LOGGING = {
     },
     'loggers': {
         'django.db.backends': {
-            'level': 'DEBUG',
+            'level': 'DEBUG', # По умолчанию DEBUG
             'handlers': ['console', 'file'],
+            'propagate': False,
         },
          '': {
             'level': 'DEBUG',
@@ -161,6 +162,10 @@ LOGGING = {
         },
     },
 }
+
+# Отключаем логирование SQL во время тестов
+if 'test' in sys.argv:
+    LOGGING['loggers']['django.db.backends']['level'] = 'INFO' # Или WARNING, ERROR
 
 CACHE_ENABLED = os.getenv("CACHE_ENABLED", "True").lower() == "true"
 CACHE_MIDDLEWARE_ALIAS = "default"

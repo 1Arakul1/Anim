@@ -1,3 +1,4 @@
+#sections\usrl.py
 from django.urls import path
 from .views import SectionListCreateAPIView, SectionRetrieveUpdateDestroyAPIView, \
                    ContentListCreateAPIView, ContentRetrieveUpdateDestroyAPIView
